@@ -1,1 +1,1 @@
-This is test file created to test the merging. This file is created from the MASTER Branch!
+This is test file created to test the merging. This file is created from the Release Branch!
